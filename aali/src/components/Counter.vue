@@ -15,7 +15,7 @@
                             ref="tm_counterk"
                             :to="250000"
                             animationPaused
-                            :duration="3"
+                            :duration="2"
                           /> </span
                         ><label class="big">+</label></span
                       >
@@ -42,7 +42,7 @@
                             ref="tm_counter"
                             :to="290"
                             animationPaused
-                            :duration="5"
+                            :duration="4"
                           /> </span
                         ><label class="small">+</label></span
                       >
