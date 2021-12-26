@@ -75,7 +75,7 @@ export default {
   name: "About",
   data() {
     return {
-      download: `Download CV ${download}`,
+      download: `Download Resume ${download}`,
     };
   },
 };
