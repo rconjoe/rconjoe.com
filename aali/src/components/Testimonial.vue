@@ -3,7 +3,7 @@
     <div class="aali_tm_testimonials">
       <div class="left">
         <div class="image">
-          <img src="img/hero/2.png" alt="" />
+          <img src="img/about/3.png" alt="" />
         </div>
       </div>
       <div class="right">
@@ -24,37 +24,38 @@
             <swiper-slide class="item li">
               <div class="text">
                 <p>
-                  I had a problem finding something, asked the support team, got
-                  a reply and a solution within a few minutes. Brilliant
-                  support! Very happy with the website I bought.
+                  I hired Joe for a freelance project. 
+                  I was impressed with his ability to quickly learn and implement the latest technology into our project. 
+                  I'm very glad we trusted our IT assets with him as we were about to pay a large firm much more.
                 </p>
               </div>
               <div class="name">
-                <h3>Tom Anderson, <span>Customer</span></h3>
+                <h3><span>Private Client, December 2021</span></h3>
               </div>
             </swiper-slide>
             <swiper-slide class="item li">
               <div class="text">
                 <p>
-                  Good overall template. I am getting back into coding and had a
-                  simple question for the author. They responded within 5
-                  minutes and answered my question. Highly recommend!
+                  It was a pleasure working with Joe. 
+                  He was very professional while maintaining a personal rapport with me. 
+                  His networking insight and experience is second to none. 
+                  He lead his team by demonstrating mastery of concepts while taking time to mentor others. 
+                  Don’t miss the opportunity to work with Joe!
                 </p>
               </div>
               <div class="name">
-                <h3>Jessica Parker, <span>App Developer</span></h3>
+                <h3>Dustin DeRouen, <span>Software Engineer</span></h3>
               </div>
             </swiper-slide>
             <swiper-slide class="item li">
               <div class="text">
                 <p>
-                  I can't believe I got support and my problem resolved in just
-                  minutes from posting my question. Simply amazing team and
-                  amazing theme! Thank you for all!
+                  "Very fast and professional responses! 
+                  I cannot recommend a better developer for a 1 on 1 small project."
                 </p>
               </div>
               <div class="name">
-                <h3>MacLaren, <span>Freelancer</span></h3>
+                <h3>KCCKirby, <span>Twitch Affiliate, Content Creator</span></h3>
               </div>
             </swiper-slide>
           </swiper>

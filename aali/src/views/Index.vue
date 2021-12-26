@@ -8,7 +8,7 @@
     <!-- <Portfolio /> -->
     <Service />
     <!-- <Resume /> -->
-    <!-- <Testimonial /> -->
+    <Testimonial />
     <Blog />
     <Counter />
     <Contact />
@@ -32,7 +32,7 @@ import Mouse from "../components/layouts/Mouse.vue";
 // import Resume from "../components/Resume.vue";
 import Service from "../components/Service.vue";
 import Skills from "../components/Skills.vue";
-// import Testimonial from "../components/Testimonial.vue";
+import Testimonial from "../components/Testimonial.vue";
 export default {
   name: "Index",
   components: {
@@ -41,6 +41,7 @@ export default {
     About,
     Skills,
     Service,
+    Testimonial,
     Mouse,
     Blog,
     Counter,
